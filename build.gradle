@@ -31,7 +31,8 @@ dependencies {
 
 minecraft {
     version = "1.10.2-12.18.2.2125"
-    assetDir = "eclipse/assets"
+    runDir = "run"
+    mappings = "snapshot_20160312"
 }
 
 dependencies {

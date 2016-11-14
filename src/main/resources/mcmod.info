@@ -1,0 +1,21 @@
+[
+{
+  "modid": "chickennecks",
+  "name": "Chicken Necks",
+  "description": "Fixed Dem Chicken Necks!",
+  "version": "1.0.0",
+  "url": "",
+  "updateUrl": "https://minecraft.curseforge.com/projects/chicken-necks",
+  "authorList": [
+    "TheMattaBase"
+    
+  ],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]
